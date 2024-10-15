@@ -43,7 +43,7 @@ my-validator/
 │       ├── es.php             # Spanish messages
 │       └── bn.php             # Bangla messages
 ├── examples/
-│   └── index.php              # Example usage
+│   └── Example.php              # Example usage
 ├── composer.json              # Composer configuration
 └── README.md                  # Documentation
 ```
